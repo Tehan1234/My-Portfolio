@@ -306,6 +306,15 @@ form .btn2 {
 .copyright i {
   color: #ff004f;
 }
+
+
+
+/* css for small screens */
+
+nav .fas{
+  display: none;
+}
+
 @media only screen and (max-width: 600px) {
   .header-text {
     margin-top: 100%;
